@@ -1,6 +1,6 @@
 ## Professional and Personal Projects
 
-<img width="1920" height="853" alt="headerER" src="https://github.com/user-attachments/assets/92a15369-3624-4758-ac78-f75e0a156e19" />
+<img width="1920" height="853" alt="headerERROLE" src="https://github.com/user-attachments/assets/8ece4ca9-cc1a-405c-9a71-7b1d90105464" />
 
 ## 42 Progress
 <p align="center"> <img width="1920" height="853" alt="header" src="https://github.com/user-attachments/assets/987ee960-6e19-4de4-8ef7-2acdd4efa2c4" /> </p>
