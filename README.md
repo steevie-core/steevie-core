@@ -5,11 +5,7 @@
 
 ### C Projects
 
-<a href="https://github.com/steevie-core/Push_Swap"><img width="49%" hspace="4" alt="Push_Swap" src="https://github.com/user-attachments/assets/ab4b15fe-30ab-4391-9ba1-ac1db189e8bc" /></a><a href="https://github.com/steevie-core/42cursus/tree/main/get_next_line"><img width="49%" hspace="4" alt="GNL" src="https://github.com/user-attachments/assets/daedc5e2-1e36-45c2-9eb1-c09a8f39f2e5" /></a>
-
-<a href="https://github.com/steevie-core/Push_Swap"><img width="49%" alt="Push_Swap" src="https://github.com/user-attachments/assets/ab4b15fe-30ab-4391-9ba1-ac1db189e8bc" /></a><a href="https://github.com/steevie-core/42cursus/tree/main/get_next_line"><img width="49%" alt="GNL" src="https://github.com/user-attachments/assets/daedc5e2-1e36-45c2-9eb1-c09a8f39f2e5" /></a>
-
-<a href="https://github.com/steevie-core/Ft_printf"><img width="49%" alt="ft_printf" src="https://github.com/user-attachments/assets/cdae7dee-0ebf-4146-894b-5658057ba028" /></a><a href="https://github.com/steevie-core/42cursus/tree/main/libft"><img width="49%" alt="Libft" src="https://github.com/user-attachments/assets/f2409df2-0568-498a-9ee0-73b03c004d36" /></a>
+<!-- <a href="https://github.com/steevie-core/Push_Swap"><img width="49%" hspace="4" alt="Push_Swap" src="https://github.com/user-attachments/assets/ab4b15fe-30ab-4391-9ba1-ac1db189e8bc" /></a><a href="https://github.com/steevie-core/42cursus/tree/main/get_next_line"><img width="49%" hspace="4" alt="GNL" src="https://github.com/user-attachments/assets/daedc5e2-1e36-45c2-9eb1-c09a8f39f2e5" /></a> -->
 
 <table cellspacing="0" cellpadding="4">
   <tr>
