@@ -1,7 +1,7 @@
 <h3 align="center">
 
 ## 42 Progress
-<p align="center"> <img width="1434" height="891" alt="badgefinal" src="https://github.com/user-attachments/assets/8b433d02-9f5b-4889-845a-89bd328d444a" /> </p>
+<p align="center"> <img width="1920" height="853" alt="header" src="https://github.com/user-attachments/assets/987ee960-6e19-4de4-8ef7-2acdd4efa2c4" /> </p>
 
 
 
