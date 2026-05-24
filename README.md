@@ -1,4 +1,4 @@
-## Professional and Personal Projects
+## Professional Projects
 
 <img width="1920" height="853" alt="headerERROLE" src="https://github.com/user-attachments/assets/8ece4ca9-cc1a-405c-9a71-7b1d90105464" />
 
