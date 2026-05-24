@@ -3,7 +3,7 @@
 
 ### Python Projects
 
-<a href="https://github.com/steevie-core/A-Maze-ing"><img width="200" hspace="10" alt="amazing" src="https://github.com/user-attachments/assets/3d9499a3-dd67-434e-abba-00c0934555a4" /></a><a href="https://github.com/steevie-core/42cursus/tree/main/get_next_line"><img width="200" hspace="10" alt="pythonmodules" src="https://github.com/user-attachments/assets/ffd703bb-9709-46e2-b828-760db08d0b64" /></a>
+<a href="https://github.com/steevie-core/A-Maze-ing"><img width="200" hspace="10" alt="amazing" src="https://github.com/user-attachments/assets/3d9499a3-dd67-434e-abba-00c0934555a4" /></a><a href="https://github.com/steevie-core/42cursus/Python-Modules"><img width="200" hspace="10" alt="pythonmodules" src="https://github.com/user-attachments/assets/ffd703bb-9709-46e2-b828-760db08d0b64" /></a>
 
 <!-- <a href="https://github.com/steevie-core/A-Maze-ing"><img width="45%" hspace="4" alt="amazing" src="https://github.com/user-attachments/assets/3d9499a3-dd67-434e-abba-00c0934555a4" /></a><a href="https://github.com/steevie-core/42cursus/tree/main/get_next_line"><img width="45%" hspace="4" alt="pythonmodules" src="https://github.com/user-attachments/assets/ffd703bb-9709-46e2-b828-760db08d0b64" /></a> -->
 
