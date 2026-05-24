@@ -1,5 +1,10 @@
 <h3 align="center">
 
+## 42 Progress
+<p align="center"> <img width="5975" height="3713" alt="compbadgeambassador" src="https://github.com/user-attachments/assets/d650357a-477b-458a-b74e-2f35428ac0e2" /> </p>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.behance.net/https://www.behance.net/liza_carrid347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/liza_carrid347" height="30" width="40" /></a>
