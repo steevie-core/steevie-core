@@ -1,7 +1,7 @@
 <h3 align="center">
 
 ## 42 Progress
-<p align="center"> <img width="5975" height="3713" alt="compbadgeambassador" src="https://github.com/user-attachments/assets/d650357a-477b-458a-b74e-2f35428ac0e2" /> </p>
+<p align="center"> <img width="1434" height="891" alt="badgefinal" src="https://github.com/user-attachments/assets/8b433d02-9f5b-4889-845a-89bd328d444a" /> </p>
 
 
 
