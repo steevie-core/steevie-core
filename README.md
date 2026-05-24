@@ -4,8 +4,17 @@
 ### Python Projects
 
 ### C Projects
-<img width="1219" height="280" alt="Libft" src="https://github.com/user-attachments/assets/f2409df2-0568-498a-9ee0-73b03c004d36" />
-<img width="1219" height="280" alt="GNL" src="https://github.com/user-attachments/assets/daedc5e2-1e36-45c2-9eb1-c09a8f39f2e5" />
+
+<table>
+  <tr>
+    <td><a href="https://github.com/steevie-core/42cursus/tree/main/libft">
+      <img width="1219" height="280" alt="Libft" src="https://github.com/user-attachments/assets/f2409df2-0568-498a-9ee0-73b03c004d36" />
+    </a></td>
+    <td><a href="https://github.com/steevie-core/42cursus/tree/main/get_next_line">
+      <img width="1219" height="280" alt="GNL" src="https://github.com/user-attachments/assets/daedc5e2-1e36-45c2-9eb1-c09a8f39f2e5" />
+    </a></td>
+  </tr>
+</table>
 
 ## Tech Skills
 
