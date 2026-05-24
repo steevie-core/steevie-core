@@ -5,7 +5,7 @@
 
 ### C Projects
 
-<!-- <a href="https://github.com/steevie-core/Push_Swap"><img width="49%" hspace="4" alt="Push_Swap" src="https://github.com/user-attachments/assets/ab4b15fe-30ab-4391-9ba1-ac1db189e8bc" /></a><a href="https://github.com/steevie-core/42cursus/tree/main/get_next_line"><img width="49%" hspace="4" alt="GNL" src="https://github.com/user-attachments/assets/daedc5e2-1e36-45c2-9eb1-c09a8f39f2e5" /></a> -->
+<a href="https://github.com/steevie-core/A-Maze-ing"><img width="471" height="621" alt="amazing" src="https://github.com/user-attachments/assets/3d9499a3-dd67-434e-abba-00c0934555a4" /></a><a href="https://github.com/steevie-core/42cursus/tree/main/get_next_line"><img width="471" height="621" alt="pythonmodules" src="https://github.com/user-attachments/assets/ffd703bb-9709-46e2-b828-760db08d0b64" /></a>
 
 <table cellspacing="0" cellpadding="4">
   <tr>
