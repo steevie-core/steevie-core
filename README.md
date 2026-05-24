@@ -5,13 +5,21 @@
 
 ### C Projects
 
-<table>
+<table border="0" cellspacing="0" cellpadding="4">
   <tr>
-    <td><a href="https://github.com/steevie-core/Libft">
-      <img width="1219" height="280" alt="Libft" src="https://github.com/user-attachments/assets/f2409df2-0568-498a-9ee0-73b03c004d36" />
+    <td><a href="https://github.com/steevie-core/Push_Swap">
+      <img alt="Push_swap" src="https://github.com/user-attachments/assets/ab4b15fe-30ab-4391-9ba1-ac1db189e8bc" />
     </a></td>
     <td><a href="https://github.com/steevie-core/Get_Next_Line">
-      <img width="1219" height="280" alt="GNL" src="https://github.com/user-attachments/assets/daedc5e2-1e36-45c2-9eb1-c09a8f39f2e5" />
+      <img alt="GNL" src="https://github.com/user-attachments/assets/daedc5e2-1e36-45c2-9eb1-c09a8f39f2e5" />
+    </a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/steevie-core/Ft_printf">
+      <img alt="ft_printf" src="https://github.com/user-attachments/assets/cdae7dee-0ebf-4146-894b-5658057ba028" />
+    </a></td>
+    <td><a href="https://github.com/steevie-core/Libft">
+      <img alt="Libft" src="https://github.com/user-attachments/assets/f2409df2-0568-498a-9ee0-73b03c004d36" />
     </a></td>
   </tr>
 </table>
