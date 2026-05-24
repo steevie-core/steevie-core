@@ -1,6 +1,8 @@
 ## Professional Projects
 
-<img width="1920" height="853" alt="headerERROLE3" src="https://github.com/user-attachments/assets/9f20f746-4a84-4e44-b571-dc211fcc6f86" />
+<img width="1920" height="853" alt="headerERROLE4" src="https://github.com/user-attachments/assets/664387f2-90c7-45f8-b980-8fc817bb4842" />
+
+<!-- <img width="1920" height="853" alt="headerERROLE3" src="https://github.com/user-attachments/assets/9f20f746-4a84-4e44-b571-dc211fcc6f86" /> -->
 
 <!-- <img width="1920" height="853" alt="headerERROLE" src="https://github.com/user-attachments/assets/8ece4ca9-cc1a-405c-9a71-7b1d90105464" /> -->
 <!-- <img width="1920" height="853" alt="headerERROLE2" src="https://github.com/user-attachments/assets/3ac792c4-d0e5-4e9d-9f6b-52c3c4abf954" /> -->
