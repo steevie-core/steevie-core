@@ -35,7 +35,7 @@
 
 ## Linux / Sysadmin
 
-<a href="https://github.com/steevie-core/A-Maze-ing"> <img width="386" height="90" hspace="10" alt="b2br" src="https://github.com/user-attachments/assets/5cf3fdaf-1645-415a-b183-426c8ad637e5" /></a>
+<a href="https://github.com/steevie-core/BorntobeRoot"> <img width="386" height="90" hspace="10" alt="b2br" src="https://github.com/user-attachments/assets/5cf3fdaf-1645-415a-b183-426c8ad637e5" /></a>
 
 
 ## Tech Skills
