@@ -1,5 +1,6 @@
 ## 42 Progress
 <p align="center"> <img width="1920" height="853" alt="header" src="https://github.com/user-attachments/assets/987ee960-6e19-4de4-8ef7-2acdd4efa2c4" /> </p>
+<!-- [![libft](badgeambassador.png)](https://github.com/steevie-core/42cursus) -->
 
 ## Tech Skills
 
