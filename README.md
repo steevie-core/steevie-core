@@ -18,7 +18,7 @@
 
 <p align="center"> <a href="https://github.com/steevie-core/Ft_printf"> <img width="45%" hspace="7" alt="printf" src="https://github.com/user-attachments/assets/fa0561a6-60e8-4e61-b0bb-c7a71235ef22" /></a><a href="https://github.com/steevie-core/42cursus/tree/main/libft"> <img width="45%" hspace="7" alt="libft" src="https://github.com/user-attachments/assets/06a72287-f4f1-44ad-b142-f821f50c7e49" /></a> </p>
 
-<table cellspacing="0" cellpadding="4">
+<!-- <table cellspacing="0" cellpadding="4">
   <tr>
     <td><a href="https://github.com/steevie-core/Push_Swap">
       <img width="1219" height="280" alt="Push_Swap" src="https://github.com/user-attachments/assets/ab4b15fe-30ab-4391-9ba1-ac1db189e8bc" />
@@ -35,7 +35,7 @@
       <img width="1219" height="280" alt="Libft" src="https://github.com/user-attachments/assets/f2409df2-0568-498a-9ee0-73b03c004d36" />
     </a></td>
   </tr>
-</table>
+</table> -->
 
 ## Linux / Sysadmin
 
