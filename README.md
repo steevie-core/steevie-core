@@ -5,8 +5,7 @@
 
 ### C Projects
 
-[![libft](<img width="1434" height="891" alt="libft" src="https://github.com/user-attachments/assets/0be5292e-e82e-4615-bf0f-34ee4fc22fef" />)](https://github.com/steevie-core/Libft) [![GNL](<img width="1434" height="891" alt="GNL" src="https://github.com/user-attachments/assets/d5001b4a-85f6-45dd-b1ed-0fb45ca22f79" />)](https://github.com/steevie-core/Get_Next_Line)
-
+<img width="1434" height="891" alt="libft" src="https://github.com/user-attachments/assets/0be5292e-e82e-4615-bf0f-34ee4fc22fef" />
 ## Tech Skills
 
 ### Languages
