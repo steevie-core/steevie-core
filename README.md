@@ -1,6 +1,8 @@
 ## Professional Projects
 
-<img width="1920" height="853" alt="headerERROLE" src="https://github.com/user-attachments/assets/8ece4ca9-cc1a-405c-9a71-7b1d90105464" />
+<!-- <img width="1920" height="853" alt="headerERROLE" src="https://github.com/user-attachments/assets/8ece4ca9-cc1a-405c-9a71-7b1d90105464" /> -->
+<img width="1920" height="853" alt="headerERROLE2" src="https://github.com/user-attachments/assets/3ac792c4-d0e5-4e9d-9f6b-52c3c4abf954" />
+
 
 ## 42 Progress
 <p align="center"> <img width="1920" height="853" alt="header" src="https://github.com/user-attachments/assets/987ee960-6e19-4de4-8ef7-2acdd4efa2c4" /> </p>
