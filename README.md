@@ -39,18 +39,12 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)
 
 ### Web Development & Design
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wordpress,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wordpress,figma&theme=light)](https://skillicons.dev)
 
 ### Tools and tech
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,vscode,pycharm,clion,windows,linux,ubuntu,debian&perline=4)](https://skillicons.dev)
 
 ### Design
 [![My Skills](https://skillicons.dev/icons?i=ps,ai,pr,xd)](https://skillicons.dev)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) 
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steevie-core&label=Profile%20views&color=0e75b6&style=flat" alt="steevie-core" /> </p>
