@@ -2,11 +2,14 @@
 
 <img width="1920" height="853" alt="headerERROLE4" src="https://github.com/user-attachments/assets/664387f2-90c7-45f8-b980-8fc817bb4842" />
 
-<!-- <img width="1920" height="853" alt="headerERROLE3" src="https://github.com/user-attachments/assets/9f20f746-4a84-4e44-b571-dc211fcc6f86" /> -->
+### Projects
 
-<!-- <img width="1920" height="853" alt="headerERROLE" src="https://github.com/user-attachments/assets/8ece4ca9-cc1a-405c-9a71-7b1d90105464" /> -->
-<!-- <img width="1920" height="853" alt="headerERROLE2" src="https://github.com/user-attachments/assets/3ac792c4-d0e5-4e9d-9f6b-52c3c4abf954" /> -->
+<p align="center"> <a href="https://github.com/steevie-core/RPI_Photobooth"> <img width="47%" hspace="7" alt="RPIBOOTH" src="https://github.com/user-attachments/assets/15f5fa53-6973-407b-af16-1dfb962dcc54" /></a> <a href="https://github.com/steevie-core/PdfGen"> <img width="1219" height="280" alt="pdfgen" src="https://github.com/user-attachments/assets/3079acc5-1e77-4085-ac12-3122b93daab1" /></a>
 
+<a href="https://github.com/steevie-core/DinoCryptoPy"> <img width="47%" hspace="7" alt="dino" src="https://github.com/user-attachments/assets/1fafa2a9-92f7-4ede-b643-72db48b10921" /></a> <a href="https://github.com/steevie-core/MemoryGame"> <img width="47%" hspace="10" alt="memory" src="https://github.com/user-attachments/assets/4c5e401a-1b76-4d36-8f4f-4acf0eb6fcdc" /></a>
+
+<a href="https://github.com/steevie-core/VLCAuto"> <img width="47%" hspace="7" alt="VLCAUDIO" src="https://github.com/user-attachments/assets/85e98334-3089-4c89-ae1c-f99bf87be6e2" /></a> <a href="https://github.com/steevie-core/AudioDetecte"> <img width="47%" hspace="10" alt="audiofin" src="https://github.com/user-attachments/assets/edb26f6c-6066-45f3-b0f8-980c6b1dbc7f" /></a>
+</p>
 
 ## 42 Progress
 <p align="center"> <img width="1920" height="853" alt="header" src="https://github.com/user-attachments/assets/987ee960-6e19-4de4-8ef7-2acdd4efa2c4" /> </p>
