@@ -63,7 +63,7 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)
 
 ### Web Development & Design
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wordpress,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,html,css,wordpress,figma&theme=dark)](https://skillicons.dev)
 
 ### Tools and tech
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,vscode,pycharm,clion,windows,linux,ubuntu,debian&perline=5)](https://skillicons.dev)
