@@ -1,20 +1,3 @@
-## Professional Projects
-
-<img width="1920" height="853" alt="headerERROLE4" src="https://github.com/user-attachments/assets/664387f2-90c7-45f8-b980-8fc817bb4842" />
-
-### Production Tools
-
-<p align="center"> <a href="https://github.com/steevie-core/RPI_Photobooth"> <img width="47%" hspace="7" alt="RPIBOOTH" src="https://github.com/user-attachments/assets/15f5fa53-6973-407b-af16-1dfb962dcc54" /></a> <a href="https://github.com/steevie-core/PdfGen"> <img width="47%" hspace="7" alt="pdfgen" src="https://github.com/user-attachments/assets/3079acc5-1e77-4085-ac12-3122b93daab1" /></a> </p>
-
-### Games & Interactive
-
-<p align="center"> <a href="https://github.com/steevie-core/DinoCryptoPy"> <img width="47%" hspace="7" alt="dino" src="https://github.com/user-attachments/assets/1fafa2a9-92f7-4ede-b643-72db48b10921" /></a> <a href="https://github.com/steevie-core/MemoryGame"> <img width="47%" hspace="10" alt="memory" src="https://github.com/user-attachments/assets/4c5e401a-1b76-4d36-8f4f-4acf0eb6fcdc" /></a> </p>
-
-### Hardware & Automation
-
-<p align="center"> <a href="https://github.com/steevie-core/VLCAuto"> <img width="47%" hspace="7" alt="VLCAUDIO" src="https://github.com/user-attachments/assets/85e98334-3089-4c89-ae1c-f99bf87be6e2" /></a> <a href="https://github.com/steevie-core/AudioDetect"> <img width="47%" hspace="7" alt="audiofin" src="https://github.com/user-attachments/assets/edb26f6c-6066-45f3-b0f8-980c6b1dbc7f" /></a>
-</p>
-
 ## 42 Progress
 <p align="center"> <img width="1920" height="853" alt="header" src="https://github.com/user-attachments/assets/987ee960-6e19-4de4-8ef7-2acdd4efa2c4" /> </p>
 
@@ -55,6 +38,24 @@
 ## Linux / Sysadmin
 
 <a href="https://github.com/steevie-core/BorntobeRoot"> <img width="47%" hspace="10" alt="b2br" src="https://github.com/user-attachments/assets/5cf3fdaf-1645-415a-b183-426c8ad637e5" /></a>
+
+
+## Professional Projects
+
+<img width="1920" height="853" alt="headerERROLE4" src="https://github.com/user-attachments/assets/664387f2-90c7-45f8-b980-8fc817bb4842" />
+
+### Production Tools
+
+<p align="center"> <a href="https://github.com/steevie-core/RPI_Photobooth"> <img width="47%" hspace="7" alt="RPIBOOTH" src="https://github.com/user-attachments/assets/15f5fa53-6973-407b-af16-1dfb962dcc54" /></a> <a href="https://github.com/steevie-core/PdfGen"> <img width="47%" hspace="7" alt="pdfgen" src="https://github.com/user-attachments/assets/3079acc5-1e77-4085-ac12-3122b93daab1" /></a> </p>
+
+### Games & Interactive
+
+<p align="center"> <a href="https://github.com/steevie-core/DinoCryptoPy"> <img width="47%" hspace="7" alt="dino" src="https://github.com/user-attachments/assets/1fafa2a9-92f7-4ede-b643-72db48b10921" /></a> <a href="https://github.com/steevie-core/MemoryGame"> <img width="47%" hspace="10" alt="memory" src="https://github.com/user-attachments/assets/4c5e401a-1b76-4d36-8f4f-4acf0eb6fcdc" /></a> </p>
+
+### Hardware & Automation
+
+<p align="center"> <a href="https://github.com/steevie-core/VLCAuto"> <img width="47%" hspace="7" alt="VLCAUDIO" src="https://github.com/user-attachments/assets/85e98334-3089-4c89-ae1c-f99bf87be6e2" /></a> <a href="https://github.com/steevie-core/AudioDetect"> <img width="47%" hspace="7" alt="audiofin" src="https://github.com/user-attachments/assets/edb26f6c-6066-45f3-b0f8-980c6b1dbc7f" /></a>
+</p>
 
 
 ## Tech Skills
