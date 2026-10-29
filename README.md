@@ -16,7 +16,7 @@
 
 <p align="center"> <a href="https://github.com/steevie-core/Ft_printf"> <img width="47%" hspace="7" alt="printf" src="https://github.com/user-attachments/assets/fa0561a6-60e8-4e61-b0bb-c7a71235ef22" /></a> <a href="https://github.com/steevie-core/42cursus/tree/main/libft"> <img width="47%" hspace="7" alt="libft" src="https://github.com/user-attachments/assets/06a72287-f4f1-44ad-b142-f821f50c7e49" /></a> </p>
 
-<a href="https://github.com/steevie-core/Codexion"> <img width="47%" hspace="10" alt="codexion" src="https://github.com/user-attachments/assets/30374855-cb56-4160-86de-97f2c684b9c7" /></a>
+<p align="center"> <a href="https://github.com/steevie-core/Codexion"> <img width="47%" hspace="10" alt="codexion" src="https://github.com/user-attachments/assets/30374855-cb56-4160-86de-97f2c684b9c7" /></a> </p>
 
 <!-- <table cellspacing="0" cellpadding="4">
   <tr>
@@ -39,7 +39,7 @@
 
 ## Linux / Sysadmin
 
-<a href="https://github.com/steevie-core/BorntobeRoot"> <img width="47%" hspace="10" alt="b2br" src="https://github.com/user-attachments/assets/5cf3fdaf-1645-415a-b183-426c8ad637e5" /></a>
+<p align="center"> <a href="https://github.com/steevie-core/BorntobeRoot"> <img width="47%" hspace="10" alt="b2br" src="https://github.com/user-attachments/assets/5cf3fdaf-1645-415a-b183-426c8ad637e5" /></a> </p>
 
 
 ## Professional Projects
